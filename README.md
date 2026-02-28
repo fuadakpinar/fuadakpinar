@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**fuadakpinar/fuadakpinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fuad, a Computer Science student based in Poland 
 
-Here are some ideas to get you started:
+I'm focused on building strong computer science fundamentals and developing a deep understanding of how software and computer systems work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning programming, system logic, and writing structured, maintainable code.
+
+---
+
+## Currently Learning
+
+- C / C++
+- Data Structures & Algorithms
+- Software Design Principles
+- Git & Open Source Collaboration
+- iOS Development (Swift)
+- Preparing for **CompTIA A+ Certification**
+
+---
+
+## Goals
+
+- Contribute to open-source projects
+- Gain real-world development experience
+- Participate in international exchange programs
+- Continuously improve problem-solving and engineering skills
+
+---
+
+## A Bit About Me
+
+- Learning Japanese
+- Interested in systems & software engineering
+- Preparing for CompTIA A+
+- Enjoy building interactive programs
+- Debugging is my cardio
