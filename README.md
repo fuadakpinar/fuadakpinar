@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Fuad, a Computer Science student based in Poland 
+I'm Fuad, a Computer Science student in Warsaw University of Technology
 
 I'm focused on building strong computer science fundamentals and developing a deep understanding of how software and computer systems work under the hood.
 
@@ -14,7 +14,6 @@ I enjoy learning programming, system logic, and writing structured, maintainable
 - Data Structures & Algorithms
 - Software Design Principles
 - Git & Open Source Collaboration
-- iOS Development (Swift)
 - Preparing for **CompTIA A+ Certification**
 
 ---
@@ -34,4 +33,3 @@ I enjoy learning programming, system logic, and writing structured, maintainable
 - Interested in systems & software engineering
 - Preparing for CompTIA A+
 - Enjoy building interactive programs
-- Debugging is my cardio
