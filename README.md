@@ -1,20 +1,19 @@
 # Hey there 👋
 
-I'm Fuad, a Computer Science student in Warsaw University of Technology
+I'm Fuad, a Computer Science student at Warsaw University of Technology.
 
-I'm focused on building strong computer science fundamentals and developing a deep understanding of how software and computer systems work under the hood.
+My ultimate career goal is to build a professional career in cybersecurity.
 
-I enjoy learning programming, system logic, and writing structured, maintainable code.
+I started programming with Python and remain very comfortable working with it. Currently, I'm focused on strengthening my computer science fundamentals and understanding how software and computer systems work.
 
 ---
 
 ## Currently Learning
 
 - C / C++
-- Data Structures & Algorithms
-- Software Design Principles
 - Git & Open Source Collaboration
 - Preparing for **CompTIA A+ Certification**
+- Japanese
 
 ---
 
@@ -22,14 +21,5 @@ I enjoy learning programming, system logic, and writing structured, maintainable
 
 - Contribute to open-source projects
 - Gain real-world development experience
+- Learn Artificial Intelligence programming
 - Participate in international exchange programs
-- Continuously improve problem-solving and engineering skills
-
----
-
-## A Bit About Me
-
-- Learning Japanese
-- Interested in systems & software engineering
-- Preparing for CompTIA A+
-- Enjoy building interactive programs
